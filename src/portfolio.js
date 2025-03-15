@@ -182,7 +182,7 @@ const workExperiences = {
     {
       role: "Junior Developer",
       company: "WESEE - Ministry of Defence",
-      companylogo: require("./assets/images/weseeLogo.jpg"),
+      companylogo: require("./assets/images/weseeLogo.jpeg"),
       date: "May 2023 – Dec 2024",
       desc: "C++ Developer for Data Communication",
       descBullets: [
